@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mtHA5PFZKwCskf0eKohKISdIMFFU37bChZ3HO+pc6+ODvwz3BYJfx+SFfKQ7ttT5nn3t060KoaMIrjku+aSZ1Q==",
+  "success": true,
+  "projectFilePath": "D:\\CodingTest\\CodingTestGame\\CodingTestGameConsole\\CodingTestGameConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HINDUSTAN\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.15\\microsoft.extensions.dependencyinjection.3.1.15.nupkg.sha512",
+    "C:\\Users\\HINDUSTAN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.15\\microsoft.extensions.dependencyinjection.abstractions.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}
